@@ -15,6 +15,7 @@ To write a program to implement the linear regression using gradient descent.
 
 ## Program:
 
+```
 '''
 Program to implement the linear regression using gradient descent.
 Developed by: Senthil Kumar S
@@ -51,6 +52,8 @@ plt.title("Hours vs Scores (Test set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
+
+```
 
 ## Output:
 
